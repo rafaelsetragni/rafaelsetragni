@@ -10,7 +10,7 @@
 <br><br>
 
 Hello! My name is Rafael Setragni.<br>
-I'm a fullstack developer, electronic technician and web designer, living in Belo Horizonte, Brazil. <span><img src="https://images.emojiterra.com/google/android-11/128px/1f1e7-1f1f7.png" alt="Google (Android 11)" width="27" height="25"></span>
+I'm a Full Stack developer, electronic technician and web designer, living in Belo Horizonte, Brazil. <span><img src="https://images.emojiterra.com/google/android-11/128px/1f1e7-1f1f7.png" alt="Google (Android 11)" width="27" height="25"></span>
 <br><br>
 Currently i've been working with many different technologies, front-end and back-end, low and high platform, each one focusing an different goal purpose.
 <br><br>
