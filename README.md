@@ -14,8 +14,8 @@ I'm a fullstack developer, electronic technician and web designer, living in Bel
 <br><br>
 Currently i've been working with many different technologies, front-end and back-end, low and high platform, each one focusing an different goal purpose.
 <br><br>
-I don't care to languages or frameworks. I wanna the task done.<br>
-A beautiful and intuitive user interface is so important than a well coded software.
+I don't care about languages or frameworks. I want the task done.<br>
+A beautiful and intuitive user interface is just as important as well coded software.
 <br><br>
 And i love to create algorithms and heuristics! &#128153;
   
