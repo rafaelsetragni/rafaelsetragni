@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/gameplaydosabao)](https://www.youtube.com/gameplaydosabao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-setragni)](https://www.linkedin.com/in/rafael-setragni/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<img align="right" width="350px" height="230px" src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" />
+<img align="right" width="310px" height="250px" src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" />
 <br><br>
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelsetragni&theme=dark&show_icons=true&count_private=true)](https://github.com/rafaelsetragni)
 <br><br>
