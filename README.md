@@ -8,6 +8,10 @@
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelsetragni&theme=dark&show_icons=true&count_private=true)](https://github.com/rafaelsetragni)
 <br><br>
 
+&#127925;&#127925; Playlist to coding with a short deadline: &#127925;&#127925;<br>
+https://open.spotify.com/playlist/2MyM00PobgApqk3c4ILp8P?si=16d0d88946c24e9f
+<br><br>
+
 Hello! My name is Rafael Setragni.<br>
 I'm a Full Stack developer, electronic technician and web designer, living in Belo Horizonte, Brazil. <span><img src="https://images.emojiterra.com/google/android-11/128px/1f1e7-1f1f7.png" alt="Google (Android 11)" width="27" height="25"></span>
 <br><br>
