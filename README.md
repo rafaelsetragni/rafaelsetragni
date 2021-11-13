@@ -8,7 +8,7 @@
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelsetragni&theme=dark&show_icons=true&count_private=true)](https://github.com/rafaelsetragni)
 <br><br>
 
-&#127925;&#127925; Playlist to coding with a short deadline: &#127925;&#127925;<br>
+&#127925;&#127925; Playlist to code with a short deadline: &#127925;&#127925;<br>
 https://open.spotify.com/playlist/2MyM00PobgApqk3c4ILp8P?si=16d0d88946c24e9f
 <br><br>
 
