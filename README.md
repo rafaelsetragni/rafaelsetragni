@@ -9,7 +9,7 @@
 <br><br>
 
 &#127925;&#127925; Playlist to code with a short deadline: &#127925;&#127925;<br>
-https://open.spotify.com/playlist/2MyM00PobgApqk3c4ILp8P?si=16d0d88946c24e9f
+https://open.spotify.com/playlist/4sRoSFzDngCYawIEFnnH9W?si=3965e208c6d14a59
 <br><br>
 
 Hello! My name is Rafael Setragni.<br>
