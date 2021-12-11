@@ -2,9 +2,6 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        test {
-          background-color:red;
-        }
       </style>
       <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelsetragni&theme=dark&show_icons=true&count_private=true"/>
@@ -20,7 +17,7 @@
         <p>I don't care about languages or frameworks. I want the task done.</p>
         <p>A beautiful and intuitive user interface is just as important as well coded software.</p>
         <br><br>
-        And i love to create algorithms and heuristics! &#128153;
+        <p>And i love to create algorithms and heuristics! &#128153;</p>
       </div>
       <br>
       <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsetragni&theme=dark&langs_count=10">
