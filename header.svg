@@ -7,8 +7,8 @@
 	  background-image: radial-gradient(
 	    rgba(0, 150, 0, 0.75), black 120%
 	  );
-	  width:800;
-	  height:400;
+	  width:800px;
+	  height:400px;
 	}
 	</style>
 	<div class="container"></div>
