@@ -6,6 +6,11 @@
       <div class="test">
         Hello! My name is Rafael Setragni.
       </div>
+      <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelsetragni&theme=dark&show_icons=true&count_private=true">
+        <img align="right" width="310px" height="250px" src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif">
+      </div>
+      <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsetragni&theme=dark&langs_count=10">
     </div>
   </foreignObject>
 </svg>
