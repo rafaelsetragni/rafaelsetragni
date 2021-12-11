@@ -2,7 +2,7 @@
 <foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 	<style>
-        body {
+        html {
 	  background-color: black;
 	  background-image: radial-gradient(
 	    rgba(0, 150, 0, 0.75), black 120%
