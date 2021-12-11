@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         test {
-          background-color: blue;
+          color: blue;
         }
       </style>
       <div class="test">
